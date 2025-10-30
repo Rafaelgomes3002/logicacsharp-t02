@@ -1,0 +1,14 @@
+C:\Users\rafael.gandrade3\source\repos\variaveisconstantes\obj\Debug\net8.0\variaveisconstantes.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.gandrade3\source\repos\variaveisconstantes\obj\Debug\net8.0\variaveisconstantes.AssemblyInfoInputs.cache
+C:\Users\rafael.gandrade3\source\repos\variaveisconstantes\obj\Debug\net8.0\variaveisconstantes.AssemblyInfo.cs
+C:\Users\rafael.gandrade3\source\repos\variaveisconstantes\obj\Debug\net8.0\variaveisconstantes.csproj.CoreCompileInputs.cache
+C:\Users\rafael.gandrade3\source\repos\variaveisconstantes\bin\Debug\net8.0\variaveisconstantes.exe
+C:\Users\rafael.gandrade3\source\repos\variaveisconstantes\bin\Debug\net8.0\variaveisconstantes.deps.json
+C:\Users\rafael.gandrade3\source\repos\variaveisconstantes\bin\Debug\net8.0\variaveisconstantes.runtimeconfig.json
+C:\Users\rafael.gandrade3\source\repos\variaveisconstantes\bin\Debug\net8.0\variaveisconstantes.dll
+C:\Users\rafael.gandrade3\source\repos\variaveisconstantes\bin\Debug\net8.0\variaveisconstantes.pdb
+C:\Users\rafael.gandrade3\source\repos\variaveisconstantes\obj\Debug\net8.0\variaveisconstantes.dll
+C:\Users\rafael.gandrade3\source\repos\variaveisconstantes\obj\Debug\net8.0\refint\variaveisconstantes.dll
+C:\Users\rafael.gandrade3\source\repos\variaveisconstantes\obj\Debug\net8.0\variaveisconstantes.pdb
+C:\Users\rafael.gandrade3\source\repos\variaveisconstantes\obj\Debug\net8.0\variaveisconstantes.genruntimeconfig.cache
+C:\Users\rafael.gandrade3\source\repos\variaveisconstantes\obj\Debug\net8.0\ref\variaveisconstantes.dll
