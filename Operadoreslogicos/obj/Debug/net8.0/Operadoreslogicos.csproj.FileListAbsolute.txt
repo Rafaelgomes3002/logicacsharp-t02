@@ -1,0 +1,15 @@
+C:\Users\rafael.gandrade3\source\repos\Operadoreslogicos\obj\Debug\net8.0\Operadoreslogicos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.gandrade3\source\repos\Operadoreslogicos\obj\Debug\net8.0\Operadoreslogicos.AssemblyInfoInputs.cache
+C:\Users\rafael.gandrade3\source\repos\Operadoreslogicos\obj\Debug\net8.0\Operadoreslogicos.AssemblyInfo.cs
+C:\Users\rafael.gandrade3\source\repos\Operadoreslogicos\obj\Debug\net8.0\Operadoreslogicos.csproj.CoreCompileInputs.cache
+C:\Users\rafael.gandrade3\source\repos\Operadoreslogicos\obj\Debug\net8.0\Operadoreslogicos.sourcelink.json
+C:\Users\rafael.gandrade3\source\repos\Operadoreslogicos\bin\Debug\net8.0\Operadoreslogicos.exe
+C:\Users\rafael.gandrade3\source\repos\Operadoreslogicos\bin\Debug\net8.0\Operadoreslogicos.deps.json
+C:\Users\rafael.gandrade3\source\repos\Operadoreslogicos\bin\Debug\net8.0\Operadoreslogicos.runtimeconfig.json
+C:\Users\rafael.gandrade3\source\repos\Operadoreslogicos\bin\Debug\net8.0\Operadoreslogicos.dll
+C:\Users\rafael.gandrade3\source\repos\Operadoreslogicos\bin\Debug\net8.0\Operadoreslogicos.pdb
+C:\Users\rafael.gandrade3\source\repos\Operadoreslogicos\obj\Debug\net8.0\Operadoreslogicos.dll
+C:\Users\rafael.gandrade3\source\repos\Operadoreslogicos\obj\Debug\net8.0\refint\Operadoreslogicos.dll
+C:\Users\rafael.gandrade3\source\repos\Operadoreslogicos\obj\Debug\net8.0\Operadoreslogicos.pdb
+C:\Users\rafael.gandrade3\source\repos\Operadoreslogicos\obj\Debug\net8.0\Operadoreslogicos.genruntimeconfig.cache
+C:\Users\rafael.gandrade3\source\repos\Operadoreslogicos\obj\Debug\net8.0\ref\Operadoreslogicos.dll
