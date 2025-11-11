@@ -42,6 +42,12 @@ empréstimo, dado o valor total do empréstimo, a taxa de juros e o
 número de parcelas. Exemplo de fórmula: 
 Dica: Utilize variáveis para o valor do empréstimo, a taxa de juros e o 
 número de parcelas.*/
+double valorEmprestimo = 2000.0;
+double taxaJuros = 0.05;
+int numeroParcelas = 12;
+
+double parcela = (valorEmprestimo * (1 + taxaJuros)) / numeroParcelas;
+Console.WriteLine($"Valor da parcela: R$ {parcela:F2}");
 
 /*5. Conversor de Moeda
 Objetivo: Trabalhar com variáveis, operadores e arredondamento.
@@ -49,6 +55,13 @@ Descrição: Crie um script que converta uma quantia em reais para
 dólares, com base em uma taxa de câmbio fornecida. Mostre o valor 
 convertido com 2 casas decimais.
 Dica: Use round() para arredondar o valor para 2 casas decimais.*/
+double reais = 150.00;
+double taxaCambio = 5.33;
+
+double dolares = reais / taxaCambio;
+dolares = Math.Round(dolares, 2);
+
+Console.WriteLine($"R$ {reais} equivalem a US$ {dolares}");
 
 /*6 . Calculadora de Desconto
 Objetivo: Cálculos matemáticos e uso de variáveis.
@@ -57,3 +70,11 @@ produto, dado o preço original e a porcentagem de desconto. Exemplo
 de fórmula: 
 Dica: Use variáveis para armazenar o preço e a porcentagem do 
 desconto e calcule o valor final.*/
+
+double precoOriginal = 300.00;
+double porcentagemDesconto = 10; // 10%
+
+double valorDesconto = precoOriginal * (porcentagemDesconto / 100);
+double precoFinal = precoOriginal - valorDesconto;
+
+Console.WriteLine($"Preço final: R$ {precoFinal:F2}");
