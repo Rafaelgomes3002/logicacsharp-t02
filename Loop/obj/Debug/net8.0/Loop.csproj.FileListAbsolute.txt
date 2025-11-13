@@ -1,0 +1,15 @@
+C:\Users\rafael.gandrade3\source\repos\Loop\bin\Debug\net8.0\Loop.exe
+C:\Users\rafael.gandrade3\source\repos\Loop\bin\Debug\net8.0\Loop.deps.json
+C:\Users\rafael.gandrade3\source\repos\Loop\bin\Debug\net8.0\Loop.runtimeconfig.json
+C:\Users\rafael.gandrade3\source\repos\Loop\bin\Debug\net8.0\Loop.dll
+C:\Users\rafael.gandrade3\source\repos\Loop\bin\Debug\net8.0\Loop.pdb
+C:\Users\rafael.gandrade3\source\repos\Loop\obj\Debug\net8.0\Loop.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.gandrade3\source\repos\Loop\obj\Debug\net8.0\Loop.AssemblyInfoInputs.cache
+C:\Users\rafael.gandrade3\source\repos\Loop\obj\Debug\net8.0\Loop.AssemblyInfo.cs
+C:\Users\rafael.gandrade3\source\repos\Loop\obj\Debug\net8.0\Loop.csproj.CoreCompileInputs.cache
+C:\Users\rafael.gandrade3\source\repos\Loop\obj\Debug\net8.0\Loop.sourcelink.json
+C:\Users\rafael.gandrade3\source\repos\Loop\obj\Debug\net8.0\Loop.dll
+C:\Users\rafael.gandrade3\source\repos\Loop\obj\Debug\net8.0\refint\Loop.dll
+C:\Users\rafael.gandrade3\source\repos\Loop\obj\Debug\net8.0\Loop.pdb
+C:\Users\rafael.gandrade3\source\repos\Loop\obj\Debug\net8.0\Loop.genruntimeconfig.cache
+C:\Users\rafael.gandrade3\source\repos\Loop\obj\Debug\net8.0\ref\Loop.dll
