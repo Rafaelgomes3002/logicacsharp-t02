@@ -42,6 +42,7 @@ e imprimir o nome do dia correspondente (por exemplo, 1 = "Domingo", 2 =
 "Segunda-feira", etc.). */
 
 
+
 /* 2. Faça um programa que calcule o preço final de um produto com base em um 
 código de desconto
 O programa deve receber um código de desconto (de 1 a 3) e aplicar o desconto 
@@ -66,7 +67,6 @@ for (int i = 1; i <= 10; i++)
     Console.WriteLine($"7 x {i} = {7 * i}");
 
 }
-
 
 
 /* 2. Faça um programa para calcular a média
@@ -98,7 +98,7 @@ cada visitante até que a capacidade máxima seja atingida. A cada visitante
 adicional, exiba o número total de visitantes até o momento. */
 
 int visitantes = 15;
-while (visitantes < 50)
+while (visitantes <= 50)
 {
     Console.WriteLine($"Visitantes no museu: {visitantes}");
     visitantes++;
@@ -114,31 +114,23 @@ usuário tem um máximo de 3 tentativas para inserir a senha correta. Se a senha
 correta ("senha123") for inserida, exiba "Login bem-sucedido!". Se o limite de 
 tentativas for atingido, mostre "Conta bloqueada por excesso de tentativas." */
 
-string senhaCorreta = "senha123";
-int tentativas = 1;
-int limiteTentativas = 3;
-bool sucesso = false;
+String senhaCorreta = "senha123";
+int tentativas = 0;
 
-while (tentativas <= limiteTentativas)
+Console.WriteLine("Informe a senha correta");
+
+while (tentativas != 3)
 {
-    Console.WriteLine("Digite sua senha:");
-    string senha = Console.ReadLine();
+ Console.WriteLine("Mim dê a senha");
 
+    String senha =Console.ReadLine ();
     if (senha == senhaCorreta)
     {
         Console.WriteLine("Login bem-sucedido!");
-        sucesso = true;
+        Environment.Exit(0);
         break;
     }
-    else
-    {
-        Console.WriteLine("Senha incorreta.");
-        tentativas++;
-    }
-}
+    tentativas++;
 
-if (!sucesso)
-{
-    Console.WriteLine("Conta bloqueada por excesso de tentativas.");
 }
-Console.ReadKey(); //Mantém o console aberto
+Console.WriteLine("Conta bloqueada por excesso de tentativas, cabou procê");

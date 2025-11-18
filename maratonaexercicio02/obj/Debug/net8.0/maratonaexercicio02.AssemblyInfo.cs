@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("maratonaexercicio02")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+3e854f11155a8195562a600c4c2bc8267be211b0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7757936e02eb74bcaafb489ad00da6226883d55e")]
 [assembly: System.Reflection.AssemblyProductAttribute("maratonaexercicio02")]
 [assembly: System.Reflection.AssemblyTitleAttribute("maratonaexercicio02")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
