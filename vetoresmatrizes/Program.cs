@@ -18,12 +18,13 @@ foreach (var nome  in nomes)
 }
 
 //Ordenação do vetor de números
-Array.Sort(numeros);
+/*Array.Sort(numeros);
 Console.WriteLine("\nVetor de Números Ordenado:");
 foreach (var n in numeros)
 {
     Console.WriteLine(n);
 }
+*/
 
 int valorProcurado = 5;
 int posicaoSequencial = PesquisaSequencial (numeros, valorProcurado);
