@@ -56,6 +56,7 @@ o Se o código for inválido, deve mostrar uma mensagem de erro */
 
 
 
+
 //Exercícios com for:
 
 /* 1.Faça um programa de tabuada de multiplicação 
