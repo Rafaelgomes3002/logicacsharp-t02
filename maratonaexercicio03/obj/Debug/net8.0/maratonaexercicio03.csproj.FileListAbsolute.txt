@@ -1,0 +1,15 @@
+C:\Users\rafael.gandrade3\source\repos\maratonaexercicio03\bin\Debug\net8.0\maratonaexercicio03.exe
+C:\Users\rafael.gandrade3\source\repos\maratonaexercicio03\bin\Debug\net8.0\maratonaexercicio03.deps.json
+C:\Users\rafael.gandrade3\source\repos\maratonaexercicio03\bin\Debug\net8.0\maratonaexercicio03.runtimeconfig.json
+C:\Users\rafael.gandrade3\source\repos\maratonaexercicio03\bin\Debug\net8.0\maratonaexercicio03.dll
+C:\Users\rafael.gandrade3\source\repos\maratonaexercicio03\bin\Debug\net8.0\maratonaexercicio03.pdb
+C:\Users\rafael.gandrade3\source\repos\maratonaexercicio03\obj\Debug\net8.0\maratonaexercicio03.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\rafael.gandrade3\source\repos\maratonaexercicio03\obj\Debug\net8.0\maratonaexercicio03.AssemblyInfoInputs.cache
+C:\Users\rafael.gandrade3\source\repos\maratonaexercicio03\obj\Debug\net8.0\maratonaexercicio03.AssemblyInfo.cs
+C:\Users\rafael.gandrade3\source\repos\maratonaexercicio03\obj\Debug\net8.0\maratonaexercicio03.csproj.CoreCompileInputs.cache
+C:\Users\rafael.gandrade3\source\repos\maratonaexercicio03\obj\Debug\net8.0\maratonaexercicio03.sourcelink.json
+C:\Users\rafael.gandrade3\source\repos\maratonaexercicio03\obj\Debug\net8.0\maratonaexercicio03.dll
+C:\Users\rafael.gandrade3\source\repos\maratonaexercicio03\obj\Debug\net8.0\refint\maratonaexercicio03.dll
+C:\Users\rafael.gandrade3\source\repos\maratonaexercicio03\obj\Debug\net8.0\maratonaexercicio03.pdb
+C:\Users\rafael.gandrade3\source\repos\maratonaexercicio03\obj\Debug\net8.0\maratonaexercicio03.genruntimeconfig.cache
+C:\Users\rafael.gandrade3\source\repos\maratonaexercicio03\obj\Debug\net8.0\ref\maratonaexercicio03.dll
