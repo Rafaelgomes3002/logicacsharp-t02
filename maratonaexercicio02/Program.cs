@@ -41,7 +41,35 @@ O programa deve receber um número de 1 a 7, representando um dia da semana,
 e imprimir o nome do dia correspondente (por exemplo, 1 = "Domingo", 2 = 
 "Segunda-feira", etc.). */
 
+int dia = 3; // Exemplo: número de 1a 7
 
+switch (dia)
+{
+    case 1:
+        Console.WriteLine("Domingo");
+        break;
+    case 2:
+        Console.WriteLine("Segunda-feira");
+        break;
+    case 3:
+        Console.WriteLine("Terça-feira");
+        break;
+    case 4:
+        Console.WriteLine("Quarta-feira");
+        break;
+    case 5:
+        Console.WriteLine("Quinta-feira");
+        break;
+    case 6:
+        Console.WriteLine("Sexta-feira");
+        break;
+    case 7:
+        Console.WriteLine("Sábado");
+        break;
+    default:
+        Console.WriteLine("Número invalido! Digite um valor de 1 a 7.");
+        break;
+ }
 
 /* 2. Faça um programa que calcule o preço final de um produto com base em um 
 código de desconto
