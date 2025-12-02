@@ -1,5 +1,4 @@
-﻿// Exercícios com array e foreach:
-
+﻿// Exercícios com array e foreach
 
 /* 1.Faça um programa de listas de peças de carro 
 Crie um programa que tenha um array de nomes de 10 peças de carro e imprima 
@@ -24,8 +23,10 @@ class Program
 
     static void Exercicio1_PecasCarro()
     {
-        string[] pecas = {"Motor", "Embreagem", "Radiador", "Pneu", "Freio",
-            "Bateria", "Vela", "Filtro de ar", "Parachoque", "Suspensão"};
+        string[] pecas = {
+            "Motor", "Embreagem", "Radiador", "Pneu", "Freio",
+            "Bateria", "Vela", "Filtro de ar", "Parachoque", "Suspensão"
+        };
 
         Console.WriteLine("Lista de Peças de Carro:");
         foreach (string p in pecas)
